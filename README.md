@@ -30,3 +30,7 @@ You can copy and paste the file shortcut to your desktop.
 1. Copy the Will OS file shortcut (step 1 of previous instructions).
 2. Paste in desktop.
 
+#### Questions Comments:
+Will Anderson
+andersonwillsam@gmail.com
+
