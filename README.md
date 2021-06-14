@@ -19,7 +19,7 @@ Hope you like Will OS ;-).<br/>
 
 #### How to setup Will OS:
 1. Open up File Explorer and go to Will_OS and make a file short cut (right click/new/shortcut).
-2. Copy file path for Will_OS/Will_OS_File/main.py (menu/copy file path).
+2. Copy file path for Will_OS/Will_OS_Files/main.py (menu/copy file path).
 3. Paste is shortcut filepath promt and then copy the shortcut.
 2. Go to the system path C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp.
 3. Paste the file shortcut.
