@@ -23,7 +23,10 @@ Hope you like Will OS ;-).<br/>
 3. Paste is shortcut filepath promt and then copy the shortcut.
 2. Go to the system path C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp.
 3. Paste the file shortcut.
-4. Reboot and enjoy Will OS
+4. Go to Will_OS and open cmd through the file bar.
+5. Type Root/Scripts/activate and enter.
+6. Type pip install r- requierments.txt (this may take some time).
+7. Reboot and enjoy Will OS
 
 #### Optional Setup:
 You can copy and paste the file shortcut to your desktop.
@@ -33,4 +36,3 @@ You can copy and paste the file shortcut to your desktop.
 #### Questions Comments:
 Will Anderson<br/>
 andersonwillsam@gmail.com
-

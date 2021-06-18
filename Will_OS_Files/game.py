@@ -2,6 +2,8 @@
 # Will OS V. 1
 
 import os
+import sys
+from commander import commander
 
 # Commander
 def gamerun():
@@ -44,10 +46,11 @@ def gamerun():
         print("SpaceInvaders -Protect the galexy from glatic invaders")
 
     elif game == "exit":
-        os.system('python app.py')
-
+        commander()
+        
     else:
         print("Not an game")
+        gamerun()
     print("--------------------------------------------------")
     gamerun()
 gamerun()
