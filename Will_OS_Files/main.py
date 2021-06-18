@@ -64,9 +64,6 @@ print("Welcome to Will OS")
 print("You are logged in as " + name.rstrip())
 print("--------------------------------------------------")
 
-print("\n--------------------------------------------------")
-print("Will OS Commander")
-print("Type 'help' for help.")
-
-
 commander()
+
+sys.exit()

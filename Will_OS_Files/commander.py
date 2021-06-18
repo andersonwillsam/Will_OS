@@ -10,7 +10,11 @@ from app import apprun
 
 # Commander
 def commander():
-    while True:
+    while True: 
+        print("\n--------------------------------------------------")
+        print("Will OS Commander")
+        print("Type 'help' for help.")
+
         command = input("\nWill OS>> ")
 
         # Command Checker
@@ -29,7 +33,7 @@ def commander():
         # Exit
         elif command == "exit":
             print("Closing Will OS...")
-            sys.exit()
+            break
 
         # Settings
         elif command == "settings":
