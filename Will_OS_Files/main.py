@@ -68,7 +68,5 @@ print("\n--------------------------------------------------")
 print("Will OS Commander")
 print("Type 'help' for help.")
 
-while True:
-    commander()
 
-input("Type any key  to exit...")
+commander()
