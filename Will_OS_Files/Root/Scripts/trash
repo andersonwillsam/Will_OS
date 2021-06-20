@@ -1,8 +1,0 @@
-#!c:\users\ander\pycharmprojects\will_os\venv\root\scripts\python.exe
-import sys
-
-from trash import trash
-
-
-if __name__ == '__main__':
-    trash(*sys.argv[1:])
